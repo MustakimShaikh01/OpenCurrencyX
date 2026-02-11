@@ -1,0 +1,20 @@
+{
+  "name": "opencurrencyx",
+  "version": "1.0.0",
+  "description": "OpenCurrencyX Node.js SDK - Free, open-source currency conversion and history API client.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "OpenCurrencyX Contributors",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "jest": "^29.0.0"
+  }
+}
