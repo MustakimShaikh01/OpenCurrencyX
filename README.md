@@ -2,7 +2,7 @@
 
 **OpenCurrencyX** is a modern, open-source currency conversion and historical rates API, complete with a beautiful, responsive frontend. Built for developers and financial enthusiasts who need reliable, free execution exchange rate data.
 
-![OpenCurrencyX Banner](https://via.placeholder.com/1200x400/0f172a/6366f1?text=OpenCurrencyX+API)
+![OpenCurrencyX Banner](https://github.com/MustakimShaikh01/OpenCurrencyX/blob/main/docs/Screenshot%202026-02-12%20at%2012.24.54%E2%80%AFAM.png)
 
 ---
 
@@ -121,4 +121,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <p align="center">
   Built with ❤️ by Mustakim Shaikh
 </p>
+# OpenCurrencyX
 # OpenCurrencyX
